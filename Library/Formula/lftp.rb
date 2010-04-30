@@ -1,9 +1,9 @@
 require 'formula'
 
 class Lftp <Formula
-  url 'http://ftp.yars.free.net/pub/source/lftp/lftp-4.0.7.tar.bz2'
+  url 'http://www.sfr-fresh.com/unix/misc/lftp-4.0.7.tar.gz'
   homepage 'http://lftp.yar.ru/'
-  md5 'a40e4518fc477c82ffcc5b04d9ff64ff'
+  md5 '2676808c93244c3207db0ec6f8bb4b85'
 
   depends_on 'readline'
   depends_on 'pkg-config'
